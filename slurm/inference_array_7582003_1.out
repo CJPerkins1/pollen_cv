@@ -1,0 +1,802 @@
+This is task 1, which will do runs 1 to 100
+This is SLURM task 1, run number 1, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_24C_normalized_stabilized/well_B3/2023-06-21_run1_24C_B3_t060_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 2, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_24C_normalized_stabilized/well_B4/2023-06-21_run1_24C_B4_t002_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 3, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-22_run1_34C_normalized_stabilized/well_B3/2023-06-22_run1_34C_B3_t041_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 4, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_24C_normalized_stabilized/well_A1/2023-06-21_run1_24C_A1_t055_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 5, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-23_run1_24C_normalized_stabilized/well_A4/2023-06-23_run1_24C_A4_t013_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 6, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_24C_normalized_stabilized/well_B4/2023-06-20_run1_24C_B4_t014_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 7, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_34C_normalized_stabilized/well_D3/2023-06-20_run1_34C_D3_t053_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 8, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_34C_normalized_stabilized/well_C1/2023-06-20_run1_34C_C1_t004_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 9, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_24C_normalized_stabilized/well_B1/2023-06-21_run1_24C_B1_t048_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 10, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_24C_normalized_stabilized/well_A3/2023-06-21_run1_24C_A3_t031_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 11, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_34C_normalized_stabilized/well_B6/2023-06-21_run1_34C_B6_t061_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 12, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-22_run1_24C_normalized_stabilized/well_B1/2023-06-22_run1_24C_B1_t055_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 13, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_34C_normalized_stabilized/well_A6/2023-06-21_run1_34C_A6_t059_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 14, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_24C_normalized_stabilized/well_B3/2023-06-20_run1_24C_B3_t063_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 15, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_24C_normalized_stabilized/well_B1/2023-06-20_run1_24C_B1_t021_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 16, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_34C_normalized_stabilized/well_B5/2023-06-20_run1_34C_B5_t054_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 17, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_34C_normalized_stabilized/well_D1/2023-06-21_run1_34C_D1_t000_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 18, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-23_run1_34C_normalized_stabilized/well_D2/2023-06-23_run1_34C_D2_t030_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 19, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-22_run1_34C_normalized_stabilized/well_A5/2023-06-22_run1_34C_A5_t048_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 20, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_34C_normalized_stabilized/well_C1/2023-06-21_run1_34C_C1_t065_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 21, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-23_run1_24C_normalized_stabilized/well_B2/2023-06-23_run1_24C_B2_t030_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 22, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-22_run1_34C_normalized_stabilized/well_B6/2023-06-22_run1_34C_B6_t014_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 23, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_34C_normalized_stabilized/well_A6/2023-06-20_run1_34C_A6_t047_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 24, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_34C_normalized_stabilized/well_A5/2023-06-20_run1_34C_A5_t005_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 25, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-23_run1_34C_normalized_stabilized/well_B6/2023-06-23_run1_34C_B6_t047_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 26, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-23_run1_34C_normalized_stabilized/well_D1/2023-06-23_run1_34C_D1_t000_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 27, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_34C_normalized_stabilized/well_B5/2023-06-21_run1_34C_B5_t002_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 28, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_24C_normalized_stabilized/well_A3/2023-06-20_run1_24C_A3_t002_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 29, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_24C_normalized_stabilized/well_B2/2023-06-20_run1_24C_B2_t003_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 30, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-23_run1_24C_normalized_stabilized/well_B4/2023-06-23_run1_24C_B4_t050_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 31, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-23_run1_24C_normalized_stabilized/well_B3/2023-06-23_run1_24C_B3_t017_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 32, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_34C_normalized_stabilized/well_D1/2023-06-20_run1_34C_D1_t011_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 33, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_34C_normalized_stabilized/well_D3/2023-06-21_run1_34C_D3_t050_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 34, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-23_run1_24C_normalized_stabilized/well_A2/2023-06-23_run1_24C_A2_t028_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 35, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_34C_normalized_stabilized/well_B6/2023-06-20_run1_34C_B6_t022_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 36, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-23_run1_34C_normalized_stabilized/well_A6/2023-06-23_run1_34C_A6_t056_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 37, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_34C_normalized_stabilized/well_A5/2023-06-21_run1_34C_A5_t046_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 38, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-23_run1_34C_normalized_stabilized/well_B5/2023-06-23_run1_34C_B5_t059_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 39, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-23_run1_24C_normalized_stabilized/well_B1/2023-06-23_run1_24C_B1_t031_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 40, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_34C_normalized_stabilized/well_D2/2023-06-20_run1_34C_D2_t048_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 41, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_24C_normalized_stabilized/well_A2/2023-06-21_run1_24C_A2_t031_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 42, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-22_run1_34C_normalized_stabilized/well_B4/2023-06-22_run1_34C_B4_t053_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 43, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_24C_normalized_stabilized/well_B2/2023-06-21_run1_24C_B2_t010_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 44, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-22_run1_24C_normalized_stabilized/well_A1/2023-06-22_run1_24C_A1_t059_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 45, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-22_run1_34C_normalized_stabilized/well_B5/2023-06-22_run1_34C_B5_t061_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 46, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-21_run1_34C_normalized_stabilized/well_D2/2023-06-21_run1_34C_D2_t061_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 47, dir_path /xdisk/rpalaniv/cjperkins1/chronic_hs/images/normalized_stabilized2023-06-20_run1_24C_normalized_stabilized/well_A4/2023-06-20_run1_24C_A4_t063_stab.tif
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 48, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 49, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 50, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 51, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 52, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 53, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 54, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 55, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 56, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 57, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 58, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 59, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 60, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 61, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 62, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 63, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 64, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 65, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 66, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 67, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 68, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 69, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 70, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 71, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 72, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 73, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 74, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 75, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 76, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 77, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 78, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 79, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 80, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 81, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 82, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 83, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 84, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 85, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 86, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 87, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 88, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 89, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 90, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 91, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 92, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 93, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 94, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 95, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 96, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 97, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 98, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 99, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+This is SLURM task 1, run number 100, dir_path NA
+Building model
+Model built
+Loading label map
+Label map loaded
+Entering inference loop
+Saving detections
+Finished
+Detailed performance metrics for this job will be available at https://metrics.hpc.arizona.edu/#job_viewer?action=show&realm=SUPREMM&resource_id=73&local_job_id=7582003 by 8am on 2023/07/11.
